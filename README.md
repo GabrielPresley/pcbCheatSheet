@@ -1,5 +1,9 @@
-# pcbCheatSheet                  
-                       
+# pcbCheatSheet     
+                
+               
+ THIS IS A VERY BASIC DESIGN I MADE ON MY BREAK, I CAN CONTINUE TO DEVELOP THIS IF THERE IS ENGOUGH INTEREST
+                     
+                        
 SINCE THE ORIGINAL WAS MADE BY MOSTLY COPYING THE TEXT FROM:                     
 INFORMATION SOURCES                           
 https://images.linoxide.com/linux-cheat-sheet.pdf                               
